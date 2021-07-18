@@ -6,4 +6,3 @@ hello git! master test
 hello git! hot-fix test
 冲一下看看!
 那就看看把！
-好的看看把！
